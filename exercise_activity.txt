@@ -1,0 +1,4 @@
+ong,running,20,100,2023-06-12
+ong,running,20,100,2023-06-12
+vang,soccer,400,400,2023-06-12
+vang,walking,20,50,2023-06-12
